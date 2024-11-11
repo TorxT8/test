@@ -8,7 +8,7 @@ price_car = []
 fari_car = []
 door_car = []
 engine_car = []
-j = 1
+j = 0
 
 j = car.readline()
 file = j.split("&")
